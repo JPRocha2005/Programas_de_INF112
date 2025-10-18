@@ -1,0 +1,8 @@
+Orientações para o Traballho 2 - INF 112
+
+- O Jogador nao tem exercito ou territorio como atributo
+ao inves disso, o exercito tem como atributo um dono (Jogador)
+e o territorio tem um numero de exercitos como atributo
+
+- Como fazer para "popular" as classes - Continentes, Territorios?
+
